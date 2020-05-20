@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Оплата</string>
+    <string name="input_money">Ввод денег</string>
+    <string name="input_info">Информация об оплате</string>
+    <string name="ok">OK</string>
+    <string name="with_bank_card">С банковской карты</string>
+    <string name="with_mobile_phone">С мобильного телефона</string>
+    <string name="with_address_cash">Наличными по адресу</string>
+    <string name="no_input_value">Не указана сумма или информация об оплате</string>
+    <string name="no_type_pay">Тип оплаты не выбран</string>
+    <string name="result_pay">Сумма: %d Назначение платежа: %s Вид: %s</string>
+</resources>
